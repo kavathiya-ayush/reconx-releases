@@ -7,8 +7,12 @@
   "releaseDate": "2026-10-13",
   "bundleFileName": "bundle-v2.0.2.zip",
   "bundleUrl": "https://raw.githubusercontent.com/kavathiya-ayush/reconx-releases/main/bundle-v2.0.2.zip",
-  "bundleSha256": "9b6ba1788adb819fcf5a2cc89786fd511946a50763876d6d58cad3fcd62bfa17",
+  "bundleSha256": "7c324c28785ddc80b57a0e2ec62e51adab74e8065ab2e1d46ad9290e2733de72",
   "bundleSizeBytes": 10457165,
+  "setupExeName": "ReconX CA Practice OS Setup 2.0.2.exe",
+  "setupExeUrl": "https://github.com/kavathiya-ayush/reconx-releases/releases/download/v2.0.2/ReconX CA Practice OS Setup 2.0.2.exe",
+  "setupExeSha256": "8a6b0b7fa4c5d056c33dad05d3f4ae7efc6315a4f9640a7c1351c87566c456ae",
+  "standaloneZipName": "ReconX-CA-Practice-OS-v2.0.2-Standalone.zip",
   "isEngineUpgrade": false,
-  "changelog": "ReconX CA Practice OS v2.0.2 - Automated release pipeline verification & statutory updates"
+  "changelog": "ReconX CA Practice OS v2.0.2 - Full Production Setup Installer & Automated OTA Pipeline"
 }
