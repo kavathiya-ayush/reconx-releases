@@ -1,14 +1,14 @@
 {
-  "version": "2.0.1",
+  "version": "2.0.2",
   "minAppVersion": "1.0.0",
   "targetEditions": [
     "all"
   ],
   "releaseDate": "2026-10-13",
-  "bundleFileName": "bundle-v2.0.1.zip",
-  "bundleUrl": "https://raw.githubusercontent.com/kavathiya-ayush/reconx-releases/main/bundle-v2.0.1.zip",
-  "bundleSha256": "75e31d10931a5fae7313ac38c4d8324b7460ad3b642036212e415ae12894605d",
-  "bundleSizeBytes": 10457162,
+  "bundleFileName": "bundle-v2.0.2.zip",
+  "bundleUrl": "https://raw.githubusercontent.com/kavathiya-ayush/reconx-releases/main/bundle-v2.0.2.zip",
+  "bundleSha256": "9b6ba1788adb819fcf5a2cc89786fd511946a50763876d6d58cad3fcd62bfa17",
+  "bundleSizeBytes": 10457165,
   "isEngineUpgrade": false,
-  "changelog": "ReconX CA Practice OS v2.0.1 - Automated release pipeline and proactive background detection"
+  "changelog": "ReconX CA Practice OS v2.0.2 - Automated release pipeline verification & statutory updates"
 }
