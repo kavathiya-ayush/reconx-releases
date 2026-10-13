@@ -7,12 +7,8 @@
   "releaseDate": "2026-10-13",
   "bundleFileName": "bundle-v2.0.1.zip",
   "bundleUrl": "https://raw.githubusercontent.com/kavathiya-ayush/reconx-releases/main/bundle-v2.0.1.zip",
-  "bundleSha256": "cf47e6208dc3c18aa43e36a56da66578030ac07342181eb79f4864d99866d311",
-  "bundleSizeBytes": 10456476,
-  "setupExeName": "ReconX CA Practice OS Setup 2.0.1.exe",
-  "setupExeUrl": "https://github.com/kavathiya-ayush/reconx-releases/releases/download/v2.0.1/ReconX CA Practice OS Setup 2.0.1.exe",
-  "setupExeSha256": "1212e39ef365aec415b4ec952f9051262831730be5d5bd86fb0abdd3c9bfb6d8",
-  "standaloneZipName": "ReconX-CA-Practice-OS-v2.0.1-Standalone.zip",
+  "bundleSha256": "75e31d10931a5fae7313ac38c4d8324b7460ad3b642036212e415ae12894605d",
+  "bundleSizeBytes": 10457162,
   "isEngineUpgrade": false,
-  "changelog": "ReconX CA Practice OS v2.0.1 - Executive luxury license portal & Razorpay checkout, live Supabase pairing code verification, dynamic multi-partner desk switcher, practice snapshot sync bus, and article-trainee data scoping."
+  "changelog": "ReconX CA Practice OS v2.0.1 - Automated release pipeline and proactive background detection"
 }
