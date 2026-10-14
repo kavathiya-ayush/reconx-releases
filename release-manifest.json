@@ -1,18 +1,14 @@
 {
-  "version": "2.0.3",
+  "version": "2.0.4",
   "minAppVersion": "1.0.0",
   "targetEditions": [
     "all"
   ],
   "releaseDate": "2026-10-14",
-  "bundleFileName": "bundle-v2.0.3.zip",
-  "bundleUrl": "https://raw.githubusercontent.com/kavathiya-ayush/reconx-releases/main/bundle-v2.0.3.zip",
-  "bundleSha256": "dc28fd7d65b49d806ebd2a4440e3fb06ee3d19c61a8c3cd6b9209f95ce5d04e6",
+  "bundleFileName": "bundle-v2.0.4.zip",
+  "bundleUrl": "https://raw.githubusercontent.com/kavathiya-ayush/reconx-releases/main/bundle-v2.0.4.zip",
+  "bundleSha256": "71bec742b5fe0374bffd28d35cf2502d604f6b85dc133fcababa43999ad1fd1c",
   "bundleSizeBytes": 10454565,
-  "setupExeName": "ReconX CA Practice OS Setup 2.0.3.exe",
-  "setupExeUrl": "https://github.com/kavathiya-ayush/reconx-releases/releases/download/v2.0.3/ReconX CA Practice OS Setup 2.0.3.exe",
-  "setupExeSha256": "9a66bd42755e42a6a4e2beed42915e1258efa908bd70bd1341fad8970dae01f9",
-  "standaloneZipName": "ReconX-CA-Practice-OS-v2.0.3-Standalone.zip",
   "isEngineUpgrade": false,
-  "changelog": "Fast native GST portal auto-fill window & popup removal"
+  "changelog": "Fix GST portal F5 WAF rejection with authentic Chrome headers & auto-recovery"
 }
