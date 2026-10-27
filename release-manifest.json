@@ -1,14 +1,14 @@
 {
-  "version": "2.0.6",
+  "version": "2.0.7",
   "minAppVersion": "1.0.0",
   "targetEditions": [
     "all"
   ],
   "releaseDate": "2026-10-27",
-  "bundleFileName": "bundle-v2.0.6.zip",
-  "bundleUrl": "https://raw.githubusercontent.com/kavathiya-ayush/reconx-releases/main/bundle-v2.0.6.zip",
-  "bundleSha256": "2f89db475d892c680438aa1a40da2abe342814c1c84b2b9d8f4bb23acf239cd4",
-  "bundleSizeBytes": 10487288,
+  "bundleFileName": "bundle-v2.0.7.zip",
+  "bundleUrl": "https://raw.githubusercontent.com/kavathiya-ayush/reconx-releases/main/bundle-v2.0.7.zip",
+  "bundleSha256": "f5bd6c58b2a22e485db36564ed9149954f3be0274d3462df0b87185f91b1847d",
+  "bundleSizeBytes": 10486620,
   "isEngineUpgrade": false,
-  "changelog": "3D Thermal Receipt Printer Animation, Razorpay Online Gateway Integration & Partner LAN Sync Attention System"
+  "changelog": "Subscription modal fix, clean bottom-right update toast, and maximized window startup"
 }
