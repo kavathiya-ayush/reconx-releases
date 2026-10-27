@@ -1,14 +1,14 @@
 {
-  "version": "2.0.7",
+  "version": "2.0.8",
   "minAppVersion": "1.0.0",
   "targetEditions": [
     "all"
   ],
   "releaseDate": "2026-10-27",
-  "bundleFileName": "bundle-v2.0.7.zip",
-  "bundleUrl": "https://raw.githubusercontent.com/kavathiya-ayush/reconx-releases/main/bundle-v2.0.7.zip",
-  "bundleSha256": "f5bd6c58b2a22e485db36564ed9149954f3be0274d3462df0b87185f91b1847d",
-  "bundleSizeBytes": 10486620,
+  "bundleFileName": "bundle-v2.0.8.zip",
+  "bundleUrl": "https://raw.githubusercontent.com/kavathiya-ayush/reconx-releases/main/bundle-v2.0.8.zip",
+  "bundleSha256": "b399a0f334886fd47c0fd35a499ad9e9322ab6bf08a514e47bb90952c7ebeb61",
+  "bundleSizeBytes": 10486489,
   "isEngineUpgrade": false,
-  "changelog": "Subscription modal fix, clean bottom-right update toast, and maximized window startup"
+  "changelog": "Compact single-page thermal receipt printer, Razorpay gateway fix, and zero-delay update detection"
 }
