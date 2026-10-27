@@ -1,14 +1,14 @@
 {
-  "version": "2.0.5",
+  "version": "2.0.6",
   "minAppVersion": "1.0.0",
   "targetEditions": [
     "all"
   ],
-  "releaseDate": "2026-10-26",
-  "bundleFileName": "bundle-v2.0.5.zip",
-  "bundleUrl": "https://raw.githubusercontent.com/kavathiya-ayush/reconx-releases/main/bundle-v2.0.5.zip",
-  "bundleSha256": "1733f4fe1098119d60da6aed8f34dee9b2512334d841e17491ad507617734e88",
-  "bundleSizeBytes": 10473701,
+  "releaseDate": "2026-10-27",
+  "bundleFileName": "bundle-v2.0.6.zip",
+  "bundleUrl": "https://raw.githubusercontent.com/kavathiya-ayush/reconx-releases/main/bundle-v2.0.6.zip",
+  "bundleSha256": "2f89db475d892c680438aa1a40da2abe342814c1c84b2b9d8f4bb23acf239cd4",
+  "bundleSizeBytes": 10487288,
   "isEngineUpgrade": false,
-  "changelog": "Notice Scrutiny Radar, Excel Bulk Importer, Multilingual WhatsApp Studio (EN, GU, HI)"
+  "changelog": "3D Thermal Receipt Printer Animation, Razorpay Online Gateway Integration & Partner LAN Sync Attention System"
 }
