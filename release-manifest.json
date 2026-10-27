@@ -1,14 +1,14 @@
 {
-  "version": "2.0.8",
+  "version": "2.0.9",
   "minAppVersion": "1.0.0",
   "targetEditions": [
     "all"
   ],
   "releaseDate": "2026-10-27",
-  "bundleFileName": "bundle-v2.0.8.zip",
-  "bundleUrl": "https://raw.githubusercontent.com/kavathiya-ayush/reconx-releases/main/bundle-v2.0.8.zip",
-  "bundleSha256": "b399a0f334886fd47c0fd35a499ad9e9322ab6bf08a514e47bb90952c7ebeb61",
-  "bundleSizeBytes": 10486489,
+  "bundleFileName": "bundle-v2.0.9.zip",
+  "bundleUrl": "https://raw.githubusercontent.com/kavathiya-ayush/reconx-releases/main/bundle-v2.0.9.zip",
+  "bundleSha256": "3e45e1126b24c50f6b77602bc0a23409833b0407ffd8b34811a1c9170e68426b",
+  "bundleSizeBytes": 10486573,
   "isEngineUpgrade": false,
-  "changelog": "Compact single-page thermal receipt printer, Razorpay gateway fix, and zero-delay update detection"
+  "changelog": "Fix continuous 2-second reload loop by clearing update status on reload and guarding toast timers"
 }
